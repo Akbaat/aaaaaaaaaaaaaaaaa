@@ -1,0 +1,1080 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	  <title>Shangrila Foods (Private) Limited | Tomato Ketchup - Tomato Ketchup</title>
+      <meta name="Copyright" content="Shangrila (Pvt.) Limited"> 
+      <meta name="language" content="english"> 
+      <meta name="Rating" content="General"> 
+      <meta name="Robots" content="index,follow">
+      <meta name="description" content=""> 
+      <meta name="Author" content="Shangrila (Pvt.) Limited">
+      
+      <meta property="og:title" content="Shangrila Foods (Private) Limited | Tomato Ketchup - Tomato Ketchup" />
+      <meta property="og:url" content="https://www.shangrila.com.pk/product-tomato-ketchup-detail.php" />
+      <meta property="og:type" content="website" />
+      <meta property="og:description" content=""/>
+      
+      <meta property="og:image:type" content="image/png" />
+      <meta property="og:image:width" content="1200" />
+      <meta property="og:image:height" content="630" />
+      <meta property="og:image" content="http://www.shangrila.com.pk/images/meta-images/tomato-ketchup-meta.jpg" />
+      <meta property="og:image:alt" content="Meta Image" />
+      <meta property="og:image:secure_url" content="http://www.shangrila.com.pk/images/meta-images/tomato-ketchup-meta.jpg" />
+             
+      <meta name="twitter:card" content="photo" />
+      <meta name="twitter:title" content="Shangrila Foods (Private) Limited | Tomato Ketchup - Tomato Ketchup" />
+      <meta name="twitter:description" content="" />
+      <meta name="twitter:image" content="http://www.shangrila.com.pk/images/meta-images/tomato-ketchup-meta.jpg" />
+      <link rel="icon" href="images/favicon.ico" type="image/png" sizes="32x32">
+
+      
+      <!-- Bootstrap Core CSS -->
+      <link href="css/bootstrap.min.css" rel="stylesheet">
+      <!-- Custom CSS -->
+      <link  href="css/jquery.mCustomScrollbar.css" rel="stylesheet">
+      <link href="css/owl.carousel.css" rel="stylesheet"> 
+      <link href="css/menu.css" rel="stylesheet"> <!-- navigation Bar -->    
+      <link href="css/footer.css" rel="stylesheet"> <!-- navigation Bar -->    
+      <link href="css/custom.css" rel="stylesheet"> <!-- Main Custom Css -->
+      
+      
+     
+      <link href="images/favicon.ico" rel="icon" type="image/x-icon">
+      <!-- Custom Fonts -->
+      <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+      <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+      <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+      <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+      <![endif]-->
+      
+            
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+  	  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-133723810-1"></script>
+      <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'UA-133723810-1');
+      </script>
+      
+      <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L2YGR3EJ54"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-L2YGR3EJ54');
+</script>
+      
+      <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-N22KTLS');</script>
+      <!-- End Google Tag Manager -->
+      
+      <script type='application/ld+json'>
+        {
+          "@context": "http://www.schema.org",
+          "@type": "LocalBusiness",
+          "name": "Shangrila Pvt. Ltd.",
+          "url": "http://www.shangrila.com.pk/",
+          "logo": "http://www.shangrila.com.pk/images/logo.png",
+          "image": "http://www.shangrila.com.pk/images/logo.png",
+          "description": "This is only due to Allah’s blessings; our business partners and customers’ trust along with the untiring efforts of our team members have made Shangrila a notable Pakistani and international food brand.\n\nShangrila began its journey in 1988 by launching the Seasoning category. Shangrila’s seasonings fast gained consumer trust on account of its high standard and challenged the local as well as international competition in the category.\n\nThis journey of success and progress carried on and in late 1990 Shangrila introduced tomato ketchup and sauces in unique packaging for the first time in Pakistan. Today Shangrila Tomato Ketchup and Sauces are known country-wide for their attractive stand-alone pouch pack, pure ingredients and great taste. Alhamdulillah, Shangrila is the customers’ first choice.\n\nShangrila moved away from tradition and introduced pickle in flexible packaging, which proved to be an unique innovation. That is, a centuries-old tradition was introduced with the innovation of Zip lock which gave customers the convenience and home-made style pickle.\n\nIn 2011, Shangrila launched the Fruiti-O brand in the nectar, juices and drinks category. In a very short time, Fruiti-O has gained record fame and popularity in not only Pakistan but the US, Canada, Europe, Australia, Africa and the Middle East. Alhamdulillah, this journey of success carries on.\n\nShangrila’s production facility is located at S.I.T.E. Super Highway, Karachi spanned over an area of 87.5 acres, which includes a new production plant based on 200,000 square feet and a warehouse. A modern warehouse covering 2 acres in Sundar Industrial Estate, Lahore effectively supplies the North and Central zone distribution networks. Moreover, work is being carried out on our new production unit and warehouse spread over 16 acres in the M3 Industrial Zone, Lahore-Faisalabad Motorway and it will be complete soon. Insha-Allah, this unit will play an important role in the country’s progress and betterment while also providing Halal jobs for several people.\n\nShangrila’s grand Head Office is situated on Shahrah-e-Faisal, Karachi where the sales, operations, IT, finance, marketing, HR and training departments are present, whose combined efforts are targeted to serve our customers.",
+          "address": {
+             "@type": "PostalAddress",
+             "streetAddress": "5th Floor Ebrahim Alibhai Tower, M.C.H.S, Block 7/8 Main Shahrah-e-Faisal",
+             "addressLocality": "Karachi",
+             "addressRegion": "Sindh",
+             "postalCode": "75350",
+             "addressCountry": "Pakistan"
+          },
+          "geo": {
+             "@type": "GeoCoordinates",
+             "latitude": "24.866156",
+             "longitude": "67.078486"
+          },
+          "hasMap": "https://goo.gl/maps/pcHzVyCeAax39sgo6"
+        }
+      </script>
+      <!-- Facebook Pixel Code -->
+	  <script>
+       !function(f,b,e,v,n,t,s)
+       {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+       n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+       if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+       n.queue=[];t=b.createElement(e);t.async=!0;
+       t.src=v;s=b.getElementsByTagName(e)[0];
+       s.parentNode.insertBefore(t,s)}(window, document,'script',
+       'https://connect.facebook.net/en_US/fbevents.js');
+       fbq('init', '635114283626015');
+       fbq('track', 'PageView');
+      </script>
+      <noscript><img height="1" width="1" alt="noscript" style="display:none" src="https://www.facebook.com/tr?id=635114283626015&ev=PageView&noscript=1"/></noscript>
+      <!-- End Facebook Pixel Code -->
+
+   </head>
+   <body>  
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N22KTLS"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+   
+    <!--mCustomScrollbar hamburger-->
+          <nav class="nav-mobile  nav-bg">
+          
+         
+      <div class="row">
+         
+       <div class="col-md-8 navbg-1">
+       <a class="mobile-logo-abs" href="index.php"><img src="images/logo.png" alt="Shangrila logo" class="center-block"></a>          
+       
+               </div>
+              <!-- <div class="col-md-4 navbg-2">
+                 
+               </div> -->
+
+               <div class="col-md-4 navbg3  mCustomScrollbar hamburger">
+               <div class="blackdiv"> <a href="#" id="nav-close">CLOSE <i class="fa fa-times" aria-hidden="true"></i></a> </div>
+               <div class="search-area2">
+                        <form method="post" action="search.php"> 
+                           <input type="text" name="search" id="search" class="search-text2" placeholder="Search ...">
+                           <input type="submit" value="" name="" id="" class="search-btn2">
+                        </form>
+                     </div>
+               <ul class="list-unstyled main-menu">
+          <!--Include your navigation here-->
+          <li class="text-left"></li>
+          <li><a href="index.php"><img src="images/icons/nav-home.png" height="19" width="20" alt="shangrila-icon-home"> Home</a></li>
+          <li><a href="about.php"><img src="images/icons/nav-about.png" height="19" width="20" alt="shangrila-icon-about"> About </a></li>
+          <li><a href="product-listing.php"><img src="images/icons/nav-products.png" height="19" width="20" alt="shangrila-icon-products"> Products </a>
+
+           <ul class="list-unstyled sub-mobilemenu">
+                
+                        <li class="sub-nav">
+
+                        <a href="product-listing.php#tomato-ketchup">Tomato Ketchup<span class="icon"></span></a>
+            </li>
+                        <li class="sub-nav">
+
+                        <a href="product-listing.php#sauces">Sauces<span class="icon"></span></a>
+            </li>
+                        <li class="sub-nav">
+
+                        <a href="product-listing.php#seasonings">Liquid Seasonings<span class="icon"></span></a>
+            </li>
+                        <li class="sub-nav">
+
+                        <a href="product-listing.php#pickle-in-oil">Pickle in Oil<span class="icon"></span></a>
+            </li>
+                        <!-- EXOTIC DIP SAUCES--><li class="sub-nav"><a href="exotic-dip-sauces/index.php">Exotic Dip Sauces<span class="icon"></span></a></li>
+            <!-- EXOTIC DIP SAUCES--><li class="sub-nav"><a href="relish-sauces/index.php">Relish Sauces<span class="icon"></span></a></li>
+            <!-- PERI PERI SAUCES--><li class="sub-nav"><a href="peri-peri-sauces/index.php">Peri Peri Sauces<span class="icon"></span></a></li>
+            <!-- MUSTARD SAUCESS --> <li class="sub-nav"><a href="mustard-sauce/index.php">Mustard Sauce<span class="icon"></span></a></li> 
+                        <li class="sub-nav">
+
+                        <a href="http://fruitio.com.pk/">Nectars & Fruit Drinks<span class="icon"></span></a>
+            </li>
+                     
+            </ul> 
+          </li>
+          
+          <!--new header --> 
+          
+        
+          
+            <li><a href="recipes-chef.php"><img src="images/icons/nav-recipe.png" height="19" width="20" alt="shangrila-icon-recipes"> Recipes </a>
+           <ul class="list-unstyled sub-mobilemenu">
+                              
+                              
+                              
+               
+                <li class="sub-nav">
+                                <a href="recipes-chef.php#endorsed-by-chef-maida">By Chef Maida<span class="icon"></span></a> 
+                </li>
+                
+                                
+                              
+               
+                <li class="sub-nav">
+                                <a href="recipes-chef.php#endorsed-by-chef-gulzar">By Chef Gulzar Hussain<span class="icon"></span></a> 
+                </li>
+                
+                                
+                              
+               
+                <li class="sub-nav">
+                                <a href="recipes-chef.php#endorsed-by-chef-shireen-anwar">By Chef Shireen Anwar<span class="icon"></span></a> 
+                </li>
+                
+                                
+                              
+               
+                <li class="sub-nav">
+                                <a href="recipes-chef.php#endorsed-by-chef-mehboob-khan">By Chef Mehboob Khan<span class="icon"></span></a> 
+                </li>
+                
+                                
+                              
+               
+                <li class="sub-nav">
+                                <a href="recipes-chef.php#endorsed-by-chef-zarnak-sidhwa">By Chef Zarnak Sidhwa<span class="icon"></span></a> 
+                </li>
+                
+                                
+                            </ul> 
+          </li>
+          
+        <!--new header --> 
+        
+        
+          <li><a href="news.php"><img src="images/icons/nav-news.png" height="19" width="20" alt="shangrila-icon-news-events"> News & Events</a></li>
+          <li><a href="global-presence.php"><img src="images/icons/nav-global.png" height="19" width="20" alt="shangrila-icon-global-presence"> Global Presence</a>
+          </li>
+          <li><a href="careers.php"><img src="images/icons/nav-career.png" height="19" width="20" alt="shangrila-icon-careers"> Careers<span class="icon"></span></a></li>
+          <li><a href="contact.php"><img src="images/icons/nav-contact.png" height="19" width="20"> Contact<span class="icon" alt="shangrila-icon-contact"></span></a></li>
+        </ul>
+       <ul class="mobile-social">
+                  <li class="m-fb"><a href="https://www.facebook.com/ShangrilaPakistan/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                  <li class="m-stack"><a href="https://www.youtube.com/channel/UCmMCmnt-E-SybOybyJTBGmg" target="_blank"><i class="fa fa-youtube"></i></a></li>
+                  <li class="m-gog social-menu-pdr"><a href="https://www.instagram.com/shangrilapakistan/" target="_blank"> <i class="fa fa-instagram"></i></a></li>
+               </ul>
+               </div>
+                  
+                
+               </div>
+      </nav>
+     
+      <div class="navbar navbar-inverse navbar-fixed-top nav-mobile">      
+                <a class="navbar-brand" href="index.php"><img src="images/logo.png" title="Shangrila Pakitsan Logo" alt="shangrila logo"></a>
+        <!--Include your brand here-->
+        <div class="navbar-header pull-right css-gooy-bs3">
+          <a id="nav-expander" class="nav-expander fixed">
+            MENU&nbsp;<span class="bar1"></span>
+                      <span class="bar2"></span>
+          </a>
+        </div>
+    </div>
+
+
+
+
+      <div class="container-fluid">
+         <div  class="row">
+            <div class="col-md-12 nmnp">
+               <img src="images/products/tomato-ketchup/tomato-ketchup-header.jpg" class="img-responsive full-width sliderimg1">
+               <img src="images/products/tomato-ketchup/tomato-ketchup-header-m.jpg" class="img-responsive full-width sliderimg2">
+               <div class="caption-category">
+               	<div class="width-caption">
+                 <h1>Tomato Ketchup</h1> 
+                  <p>Shangrila Tomato Ketchup is a distinctive blend of ripe tomatoes and natural spices with relishing taste.</p>                  <br>
+                  <a href=""  data-toggle="modal" data-target="#myModal" class="btn-normal btn pull-left mr10px">Shop Online <i class="fa preview-arrow fa-angle-right ml10px bld"></i></a>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+<div class="body-content">
+      <div class="container">
+         <div class="row  global-presence">
+            <div class="col-md-1">&nbsp;</div>
+            <div class="col-md-10">
+               <h1>Blend of ripe tomatoes and natural spices with relishing taste</h1><p>Our specialized processing ensures that the original taste, nutrients and aroma of tomatoes and spices are fully preserved. Shangrila Tomato Ketchup is an ideal table-top condiment that makes all varieties of food and snacks tastier and delicious, particularly fried and broasted items.</p>            </div>
+            <div class="col-md-1">&nbsp;</div>
+         </div>
+      </div>
+      <section id="ingrediant" class="ingrediant" style="background-image: url(images/products/tomato-ketchup/category-inside.jpg);">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-6">
+                  <h1>Ingredients</h1>
+                  <p>Tomato Pulp, Sugar, Vinegar, Salt, Onions, Citric Acid (E330), Spices, Stabilizer (E466) and Preservative (E211).</p>                  
+                                    
+                  <br>
+                  <div class="row">
+                     <div class="col-md-12">
+                        <h1>Packaging </h1>
+                     </div>
+                    
+                     <!-- SKU -->
+                                       
+                     <div class="col-md-3 col-sm-4  col-xs-12 minproductheight">
+                        <a href="#">
+                           <img src="images/products/tomato-ketchup/sku/10g.jpg" class="center-block desktop-full-width zm">
+                           <div class="product-caption"><b>Sachet</b><br>9 g X 100 Pcs X 10 Packs</div>
+                        </a>
+                     </div>
+                                       
+                     <div class="col-md-3 col-sm-4  col-xs-12 minproductheight">
+                        <a href="#">
+                           <img src="images/products/tomato-ketchup/sku/40g.jpg
+" class="center-block desktop-full-width zm">
+                           <div class="product-caption"><b>Sachet</b><br>25 g X 12 x 12 Strips</div>
+                        </a>
+                     </div>
+                                       
+                     <div class="col-md-3 col-sm-4  col-xs-12 minproductheight">
+                        <a href="#">
+                           <img src="images/products/tomato-ketchup/sku/100g.jpg" class="center-block desktop-full-width zm">
+                           <div class="product-caption"><b>Sachet</b><br>70 g X 6 X 24 Strips
+</div>
+                        </a>
+                     </div>
+                                       
+                     <div class="col-md-3 col-sm-4  col-xs-12 minproductheight">
+                        <a href="#">
+                           <img src="images/products/tomato-ketchup/sku/250g.jpg" class="center-block desktop-full-width zm">
+                           <div class="product-caption"><b>Mini Pack</b><br>210 g X 24 Pcs</div>
+                        </a>
+                     </div>
+                                       
+                     <div class="col-md-3 col-sm-4  col-xs-12 minproductheight">
+                        <a href="#">
+                           <img src="images/products/tomato-ketchup/sku/500g.jpg" class="center-block desktop-full-width zm">
+                           <div class="product-caption"><b>Smart Pack</b><br>400g X 12 Pcs</div>
+                        </a>
+                     </div>
+                                       
+                     <div class="col-md-3 col-sm-4  col-xs-12 minproductheight">
+                        <a href="#">
+                           <img src="images/products/tomato-ketchup/sku/1kg.jpg" class="center-block desktop-full-width zm">
+                           <div class="product-caption"><b>Family Pack</b><br>800 g X 12 Pcs
+</div>
+                        </a>
+                     </div>
+                                       
+                     <div class="col-md-3 col-sm-4  col-xs-12 minproductheight">
+                        <a href="#">
+                           <img src="images/products/tomato-ketchup/sku/600gm.jpg" class="center-block desktop-full-width zm">
+                           <div class="product-caption"><b>Squeeze Bottle</b><br>400 g X 12 Pcs
+</div>
+                        </a>
+                     </div>
+                                       
+                     <div class="col-md-3 col-sm-4  col-xs-12 minproductheight">
+                        <a href="#">
+                           <img src="images/products/tomato-ketchup/sku/3.25kg.jpg" class="center-block desktop-full-width zm">
+                           <div class="product-caption"><b>Bottle</b><br>3.25 kg X 4 Pcs
+</div>
+                        </a>
+                     </div>
+                                       
+                     <div class="col-md-3 col-sm-4  col-xs-12 minproductheight">
+                        <a href="#">
+                           <img src="images/products/tomato-ketchup/sku/1-5kg.jpg" class="center-block desktop-full-width zm">
+                           <div class="product-caption"><b>Bucket</b><br>1.5 Kg X 8 Pcs</div>
+                        </a>
+                     </div>
+                                       
+                     <div class="col-md-3 col-sm-4  col-xs-12 minproductheight">
+                        <a href="#">
+                           <img src="images/products/tomato-ketchup/sku/5kg.jpg" class="center-block desktop-full-width zm">
+                           <div class="product-caption"><b>Bucket</b><br>5 Kg X 2 Pcs</div>
+                        </a>
+                     </div>
+                                       
+                     <div class="col-md-3 col-sm-4  col-xs-12 minproductheight">
+                        <a href="#">
+                           <img src="images/products/tomato-ketchup/sku/4-4kg.jpg" class="center-block desktop-full-width zm">
+                           <div class="product-caption"><b>Can</b><br>4 Kg X 4 Pcs
+</div>
+                        </a>
+                     </div>
+                     
+                     
+                  </div>
+               </div>
+             <div class="col-md-1 col-sm-1"></div>
+                  <div class="col-md-5"> 
+                       	<!--<h1>Nutrition Facts (1Kg)</h1>-->
+                                                      <div class="nut-facts">
+                                <img src="images/products/tomato-ketchup/nutrition-facts.svg"  class="img-responsive"/>
+                           </div>
+                                                  </div>
+            </div>
+            <div class="row">
+               <div class="col-md-6 col-sm-6"></div>
+            </div>
+         </div>
+      </section>
+
+      <!-- cooking with chef -->
+      <section id="featured" class="featured">
+         <div class="container">
+            <div class="col-md-5 col-sm-6 col-xs-12">
+               <h1>Cooking with Tomato Ketchup</h1>
+               <a href="recipes-chef.php" class="btn-recipes2 pull-left">VIEW ALL latest recipes  <i class="fa fa-long-arrow-right ml10px bld"></i></a>
+            </div>
+            <div class="col-md-7 col-sm-6  col-xs-12">
+               <div id="slider-carousel" class="featured_recipes_detail">
+                  					  <div class="col-md-12 portfolio-item">
+						 <a href="recipes-dragon-wings-csa-cb-detail.php" class="portfolio-link" >
+						 
+							<img src="images/recipes/dragon-wings-csa-cb.jpg" class="img-responsive" alt="">
+							 <div class="portfolio-caption">
+								 <!--<span href="#"></span>-->
+								 <p>Dragon Wings</p>
+							  </div>
+						 </a>
+					  </div>
+				   					  <div class="col-md-12 portfolio-item">
+						 <a href="recipes-chicken-milanese-csa-cb-detail.php" class="portfolio-link" >
+						 
+							<img src="images/recipes/chicken-milanese-csa-cb.jpg" class="img-responsive" alt="">
+							 <div class="portfolio-caption">
+								 <!--<span href="#"></span>-->
+								 <p>Chicken Milanese</p>
+							  </div>
+						 </a>
+					  </div>
+				   					  <div class="col-md-12 portfolio-item">
+						 <a href="recipes-chicken-shashlik-cma-cb-detail.php" class="portfolio-link" >
+						 
+							<img src="images/recipes/chicken-shashlik-cma-cb.jpg" class="img-responsive" alt="">
+							 <div class="portfolio-caption">
+								 <!--<span href="#"></span>-->
+								 <p>Chicken Shashlik</p>
+							  </div>
+						 </a>
+					  </div>
+				   					  <div class="col-md-12 portfolio-item">
+						 <a href="recipes-ruzz-bukhari-cgh-cb-detail.php" class="portfolio-link" >
+						 
+							<img src="images/recipes/ruzz-bukhari-cgh-cb.jpg" class="img-responsive" alt="">
+							 <div class="portfolio-caption">
+								 <!--<span href="#"></span>-->
+								 <p>Ruzz Bukhari</p>
+							  </div>
+						 </a>
+					  </div>
+				   					  <div class="col-md-12 portfolio-item">
+						 <a href="recipes-qeema-anda-curry-cma-cb-detail.php" class="portfolio-link" >
+						 
+							<img src="images/recipes/qeema-anda-curry-cma-cb.jpg" class="img-responsive" alt="">
+							 <div class="portfolio-caption">
+								 <!--<span href="#"></span>-->
+								 <p>Qeema Anda Curry</p>
+							  </div>
+						 </a>
+					  </div>
+				   					  <div class="col-md-12 portfolio-item">
+						 <a href="recipes-sweet-and-sour-chicken-cma-cb-detail.php" class="portfolio-link" >
+						 
+							<img src="images/recipes/sweet-and-sour-chicken-cma-cb.jpg" class="img-responsive" alt="">
+							 <div class="portfolio-caption">
+								 <!--<span href="#"></span>-->
+								 <p>Sweet & Sour Chicken</p>
+							  </div>
+						 </a>
+					  </div>
+				   					  <div class="col-md-12 portfolio-item">
+						 <a href="recipes-chicken-hong-kong-csa-cb-detail.php" class="portfolio-link" >
+						 
+							<img src="images/recipes/chicken-hong-kong-csa-cb.jpg" class="img-responsive" alt="">
+							 <div class="portfolio-caption">
+								 <!--<span href="#"></span>-->
+								 <p>Chicken Hong Kong</p>
+							  </div>
+						 </a>
+					  </div>
+				   					  <div class="col-md-12 portfolio-item">
+						 <a href="recipes-cheesy-mexican-bubble-bake-csa-cb-detail.php" class="portfolio-link" >
+						 
+							<img src="images/recipes/cheesy-mexican-bubble-bake-csa-cb.jpg" class="img-responsive" alt="">
+							 <div class="portfolio-caption">
+								 <!--<span href="#"></span>-->
+								 <p>Cheesy Mexican Bubble Bake</p>
+							  </div>
+						 </a>
+					  </div>
+				   					  <div class="col-md-12 portfolio-item">
+						 <a href="recipes-prawns-and-chilli-sauce-csa-cb-detail.php" class="portfolio-link" >
+						 
+							<img src="images/recipes/prawns-and-chilli-sauce-csa-cb.jpg" class="img-responsive" alt="">
+							 <div class="portfolio-caption">
+								 <!--<span href="#"></span>-->
+								 <p>Prawns And Chilli Sauce</p>
+							  </div>
+						 </a>
+					  </div>
+				   					  <div class="col-md-12 portfolio-item">
+						 <a href="recipes-chilli-chicken-biryani-csa-cb-detail.php" class="portfolio-link" >
+						 
+							<img src="images/recipes/chilli-chicken-biryani-csa-cb.jpg" class="img-responsive" alt="">
+							 <div class="portfolio-caption">
+								 <!--<span href="#"></span>-->
+								 <p>Chilli Chicken Biryani</p>
+							  </div>
+						 </a>
+					  </div>
+				   					  <div class="col-md-12 portfolio-item">
+						 <a href="recipes-pulao-with-bbq-skewers-csa-cb-detail.php" class="portfolio-link" >
+						 
+							<img src="images/recipes/pulao-with-bbq-skewers-csa-cb.jpg" class="img-responsive" alt="">
+							 <div class="portfolio-caption">
+								 <!--<span href="#"></span>-->
+								 <p>Pulao With BBQ Skewers</p>
+							  </div>
+						 </a>
+					  </div>
+				   					  <div class="col-md-12 portfolio-item">
+						 <a href="recipes-pasta-with-red-and-white-sauce-cgh-cb-detail.php" class="portfolio-link" >
+						 
+							<img src="images/recipes/pasta-with-red-and-white-sauce-cgh-cb.jpg" class="img-responsive" alt="">
+							 <div class="portfolio-caption">
+								 <!--<span href="#"></span>-->
+								 <p>Pasta With Red And White Sauce</p>
+							  </div>
+						 </a>
+					  </div>
+				   					  <div class="col-md-12 portfolio-item">
+						 <a href="recipes-thai-chicken-skewers-cmk-cb-detail.php" class="portfolio-link" >
+						 
+							<img src="images/recipes/thai-chicken-skewers-cmk-cb.jpg" class="img-responsive" alt="">
+							 <div class="portfolio-caption">
+								 <!--<span href="#"></span>-->
+								 <p>Thai Chicken Skewers</p>
+							  </div>
+						 </a>
+					  </div>
+				   					  <div class="col-md-12 portfolio-item">
+						 <a href="recipes-honey-potato-fingers-csa-cb-detail.php" class="portfolio-link" >
+						 
+							<img src="images/recipes/honey-potato-fingers-csa-cb.jpg" class="img-responsive" alt="">
+							 <div class="portfolio-caption">
+								 <!--<span href="#"></span>-->
+								 <p>Honey Potato Fingers</p>
+							  </div>
+						 </a>
+					  </div>
+				   					  <div class="col-md-12 portfolio-item">
+						 <a href="recipes-sloppy-joes-czs-cb-detail.php" class="portfolio-link" >
+						 
+							<img src="images/recipes/sloppy-joes-czs-cb.jpg" class="img-responsive" alt="">
+							 <div class="portfolio-caption">
+								 <!--<span href="#"></span>-->
+								 <p>Sloppy Joes</p>
+							  </div>
+						 </a>
+					  </div>
+				                  </div>
+            </div>
+         </div>
+      </section>
+       <!-- cooking with chef -->
+      
+        <div id="overlay"></div>
+      <div class="modal fade" id="myModal" role="dialog">
+         <div class="modal-dialog adjwidth">
+            <!-- Modal content-->
+            <div class="modal-content  adjmodal-bdy">
+               <div class="modal-header">
+                  <a href="#"  data-dismiss="modal"><img src="images/close-modal.png" class="btnclose"> </a>
+               </div>
+               <div class="modal-body">
+                  <div class="row">
+                     <div class="col-md-12">
+                     	<div class="modal-padding">
+                        <h2>Tomato Ketchup is available on</h2>
+                        
+                        <a href="https://play.google.com/store/apps/details?id=com.krrave.customer" class="btn-recipes2"  target="_blank">
+                        <img src="images/buy/kravemart.png" class="popbnimage">
+                        <i class="fa fa-long-arrow-right ml10px bld"></i></a>
+                        
+                        <a href="https://play.google.com/store/apps/details?id=com.global.foodpanda.android" class="btn-recipes2" target="_blank"><img src="images/buy/pandamart.png" class="popbnimage">
+                        <i class="fa fa-long-arrow-right ml10px bld"  target="_blank"></i></a>
+                        
+                        <a href="https://play.google.com/store/apps/details?id=com.localpk.android&hl=en&gl=US&pli=1" class="btn-recipes2" target="_blank"><img src="images/buy/dealcart.png" class="popbnimage">
+                        <i class="fa fa-long-arrow-right ml10px bld"></i></a>
+                        
+                        
+                       <!-- <a href="https://play.google.com/store/apps/details?id=com.airlift.shop" class="btn-recipes2"  target="_blank">
+                        <img src="images/buy/airlift.png" class="popbnimage">
+                        <i class="fa fa-long-arrow-right ml10px bld"></i></a>-->
+						</div>
+                        
+                     </div>
+                     
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+</div>
+         
+      <div class="bottom-section">
+<section id="buy" class=" buy">
+   <div class="container-fluid adjust-client2">
+      <div class="container">
+         <div class="row">
+            <div class="col-md-12 col-centered ">
+            <h1 class="text-center">Available Online</h1>
+                  <div class="col-md-3 col-sm-3 col-xs-12 buy-center text-center  col-md-offset-1 col-sm-offset-1">
+                     <a href="https://play.google.com/store/apps/details?id=com.krrave.customer" target="_blank"><img src="images/buy/kravemart.png" class="img-responsive zm" alt="kravemart"></a>
+                  </div>
+                  <div class="col-md-3 col-sm-3 col-xs-12 buy-center text-center">
+                     <a href="https://play.google.com/store/apps/details?id=com.global.foodpanda.android" target="_blank"><img src="images/buy/pandamart.png" class="img-responsive zm" alt="HUM MART"></a>
+                  </div>
+                  <div class="col-md-3 col-sm-3 col-xs-12 buy-center text-center">
+                    <a href="https://play.google.com/store/apps/details?id=com.localpk.android&hl=en&gl=US&pli=1" target="_blank"> <img src="images/buy/dealcart.png" class="img-responsive zm" alt="Asanbuy"></a>
+                  </div>
+                  <div class="col-md-3 col-sm-3 col-xs-12 buy-center text-center oapc-2022-noshow">
+                   <a class="" href="https://play.google.com/store/apps/details?id=com.airlift.shop" target="_blank"><img src="images/buy/airlift.png" class="img-responsive zm" alt="iShopping"></a>
+                  </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<section id="partner" class="partner">
+   <div class="container-fluid adjust-client">
+      <div class="container">
+         <div class="row">
+            <div class="col-md-12 col-centered ">
+            <h1 class="text-center">Certifications</h1>
+               <div id="slider-carousel" class="partners">
+                                    <div class="col-md-12 portfolio-item">
+                     <img src="images/partner/partner-halal-foods.png" class="img-responsive zm" alt="partner-halal-foods" title="partner-halal-foods">
+                  </div>
+                                    <div class="col-md-12 portfolio-item">
+                     <img src="images/partner/SGS-9001.png" class="img-responsive zm" alt="SGS-9001" title="SGS-9001">
+                  </div>
+                                    <div class="col-md-12 portfolio-item">
+                     <img src="images/partner/partner-pak-standards.png" class="img-responsive zm" alt="partner-pak-standards" title="partner-pak-standards">
+                  </div>
+                                    <div class="col-md-12 portfolio-item">
+                     <img src="images/partner/partner-brand-of-year.png" class="img-responsive zm" alt="partner-brand-of-year" title="partner-brand-of-year">
+                  </div>
+                                    <div class="col-md-12 portfolio-item">
+                     <img src="images/partner/SGS-FSSC-22000.png" class="img-responsive zm" alt="SGS-FSSC-22000" title="SGS-FSSC-22000">
+                  </div>
+                                    <div class="col-md-12 portfolio-item">
+                     <img src="images/partner/partner-consumer-choice.png" class="img-responsive zm" alt="partner-consumer-choice" title="partner-consumer-choice">
+                  </div>
+                                    <div class="col-md-12 portfolio-item">
+                     <img src="images/partner/partner-pak-food-assocication.png" class="img-responsive zm" alt="partner-pak-food-assocication" title="partner-pak-food-assocication">
+                  </div>
+                                    <div class="col-md-12 portfolio-item">
+                     <img src="images/partner/partner-palma.png" class="img-responsive zm" alt="partner-palma" title="partner-palma">
+                  </div>
+                                 </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<div class="container-fluid footer" id="footer">
+   <div class="container">
+      <div class="row footer-padding">
+        
+         <div class="col-md-12">
+            <div class="row">
+               <div class="col-md-12 footer-desc">
+                  <p>When you talk about snacks, tomato ketchup is the first thing that comes to mind. No matter which variety of snack you are having, if it is not paired with a good quality tomato ketchup, it&rsquo;s not enjoyable at all. This kitchen and dining table hero, who is also sometimes called a &ldquo;catsup&rdquo;, comes dressed up in a flamboyant ketchup bottle that, once opened, fills life into every food item sitting on your table. Most people prefer having homemade ketchup with their snacks, because it contains fresh tomatoes and other healthy ingredients. Shangrila Tomato Ketchup captures the same essence of homemade ketchup in its entire range of ketchups that offers health and flavor in a bottle.</p>               </div>
+            </div>
+            
+            <div class="row footer-nav">
+               <div class="col-md-2  col-xs-12">
+                  <h3>Quick links</h3>
+                  <ul>
+                     <li><a href="about.php">About</a></li>
+                     <li><a href="recipes.php">Recipes</a></li>
+                     <li><a href="global-presence.php">Global presence</a></li>
+                     <li><a href="contact.php">Contact</a></li>
+                  </ul>
+               </div>
+               <div class="col-md-2 col-xs-12">
+                  <h3>Tomato Ketchup</h3>
+                  <ul>
+                                       <li><a href="product-tomato-ketchup-detail.php">Tomato Ketchup</a></li>
+                                         <li><a href="product-habanero-ketchup-detail.php">Habanero Ketchup</a></li>
+                                         <li><a href="product-kidzchup-detail.php">KidzChup</a></li>
+                                      </ul>
+               
+                  <ul>
+                                       <li><a href="product-garlic-chilli-sauce-detail.php">Garlic Chilli Sauce</a></li>
+                                         <li><a href="product-imli-ginger-sauce-detail.php">Imli Ginger Sauce</a></li>
+                                         <li><a href="product-bar-b-q-sauce-detail.php">Bar.B.Q Sauce</a></li>
+                                         <li><a href="product-green-chilli-sauce-detail.php">Green Chilli Sauce</a></li>
+                                         <li><a href="product-pizza-sauce-detail.php">Pizza Sauce</a></li>
+                                         <li><a href="product-achari-mango-sauce-detail.php">Achari Mango Sauce</a></li>
+                                      </ul>
+               </div>
+               <div class="col-md-2 col-xs-12">
+                  <h3>Seasonings</h3>
+                  <ul>
+                                       <li><a href="product-soy-sauce-detail.php">Soy Sauce</a></li>
+                                         <li><a href="product-chilli-sauce-detail.php">Chilli Sauce</a></li>
+                                         <li><a href="product-synthetic-vinegar-detail.php">Synthetic Vinegar</a></li>
+                                         <li><a href="product-worcestershire-sauce-detail.php">Worcestershire Sauce</a></li>
+                                         <li><a href="product-dark-soy-sauce-detail.php">Dark Soy Sauce</a></li>
+                                         <li><a href="product-apple-cider-vinegar-detail.php">Apple Cider Vinegar</a></li>
+                                         <li><a href="product-natural-vinegar-detail.php">Natural Vinegar</a></li>
+                                         <li><a href="product-lemon-juice-detail.php">Lemon Juice</a></li>
+                                         <li><a href="product-trio-pack-detail.php">Trio Pack</a></li>
+                                      </ul>
+               </div>
+               <div class="col-md-2 col-xs-12">
+                  <h3>Pickles in Oil</h3>
+                  <ul>
+                                       <li><a href="product-mixed-pickle-detail.php">Mixed Pickle</a></li>
+                                         <li><a href="product-mango-pickle-detail.php">Mango Pickle</a></li>
+                                         <li><a href="product-hyderabadi-pickle-detail.php">Hyderabadi Pickle</a></li>
+                                         <li><a href="product-mixed-pickle-chunk-detail.php">Mixed Pickle Chunks</a></li>
+                                      </ul>
+                  <h3>Musturd Sauces</h3>
+                  <ul>
+                  <li><a href="mustard-sauce/index.php">Classic Yellow Musturd</a></li>
+                  <li><a href="mustard-sauce/index.php">Honey Musturd</a></li>
+                  </ul>
+                  
+               </div>
+               <div class="col-md-2 col-xs-12">
+                  <h3>Exotic Dip Sauces</h3>
+                  <ul>
+                  <li><a href="exotic-dip-sauces/sriracha.php">Hot Sriracha Sauce</a></li>
+                  <li><a href="exotic-dip-sauces/periperi.php">Peri Peri Sauce</a></li>
+                  <li><a href="exotic-dip-sauces/bbq.php">Smoky BBQ Sauce</a></li>
+                  <li><a href="exotic-dip-sauces/thai-sweet-chilli.php">Thai Sweet Chilli Sauce</a></li>
+                  </ul>
+                  <h3>Relish Sauces</h3>
+                  <ul>
+                  
+                  <li><a href="relish-sauces/tabassco-sauce.php">Tabassco Sauce</a></li>
+                  <li><a href="relish-sauces/buffalo-sauce.php">Buffalo Sauce</a></li>
+                  <li><a href="relish-sauces/chipotle-sauce.php">Chipotle Sauce</a></li>
+                  <li><a href="relish-sauces/steak-sauce.php">Steak Sauce</a></li>
+                  </ul>
+               </div>
+               <div class="col-md-2 col-xs-12">
+                  <h3>Peri Peri Sauces</h3>
+                  <ul>
+                  <li><a href="peri-peri-sauces/">Peri Peri Extra Hot Sauce</li>
+                  <li><a href="peri-peri-sauces/">Peri Peri Hot Sauce</a></li>
+                  <li><a href="peri-peri-sauces/">Peri Peri Garlic Sauce</a></li>
+                  <li><a href="peri-peri-sauces/">Peri Peri Mild Sauce</a></li>
+                  <li><a href="peri-peri-sauces/">Peri Peri Extra Mild Sauce</a></li>
+                  
+                  </ul>
+                  
+               </div>
+               
+            </div>
+            <div class="row">
+            <div class="col-md-12 nmnp pos-minus">
+               <ul class="footerlink">
+                  <li><a href="distributor.php"> Partner With Us</a></li>
+                  <li><a href="careers.php"> Careers</a></li>
+                  <li><a href="news.php"> News & Events</a></li>
+                  <li><a href="gallery.php"> Media Gallery</a></li>
+                  <li><a href="privacy-policy.php"> Privacy Policy </a></li>
+                  <li><a href="frequently-asked-questions.php"> FAQ's</a></li>
+               </ul>
+            </div>
+            </div>
+            
+              <a href="#" id="scroll" title="Scroll to Top" >Top<span></span></a>
+              <div class="row mtbasefooter">
+                 <div class="col-md-6">
+                    <p class="mt15px cpright">© 2025. Shangrila. All rights reserved.</p>
+                 </div>
+                 <div class="col-md-6">
+                    <ul class="footer-social">
+                       <li class="m-fb"><a href="https://www.facebook.com/ShangrilaPakistan/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                       <li class="m-stack"><a href="https://www.youtube.com/channel/UCmMCmnt-E-SybOybyJTBGmg" target="_blank"><i class="fa fa-youtube"></i></a></li>
+                       <li class="m-gog social-menu-pdr"><a href="https://www.instagram.com/shangrilapakistan/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                       <li><a href="#" class="hashtag">#shangrilafoods</a></li>
+                    </ul>
+                 </div>
+              </div>
+            
+         </div>
+      </div>
+   </div>
+</div>
+</div>    
+      
+            <div id="overlay"></div>
+      <!-- /.container -->
+<!-- jQuery -->
+<script src="js/jquery.js"></script>
+<script src="js/jquery.mCustomScrollbar.concat.min.js"></script> 
+<script src="js/bootstrap.min.js"></script>
+<script src="js/back-to-top.min.js"></script>
+<script src="js/jquery.navgoco.min.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/functions.min.js"></script>
+<script src="js/jquery.inview.min.js"></script>
+
+
+
+
+<script>
+$(window).on("load resize",function(){
+    if(window.matchMedia("(max-width: 700px)").matches){
+      $(".hamburger").mCustomScrollbar("destroy");
+    }else{
+      
+        $(".hamburger").mCustomScrollbar({theme: "minimal"});
+    }
+});
+</script>
+
+
+
+
+
+<script>
+
+/************ HOME PAGE SLIDERS / RECIPES SLIDERS / DETAIL PAGE SLIDERS *****************************/
+
+jQuery(document).ready(function($) {
+$('.featured_recipes').owlCarousel({
+dots: false,
+loop: true,
+nav: true,
+merge:true,
+video:true,
+videoWidth: false, // Default false; Type: Boolean/Number
+videoHeight: false, // Default false; Type: Boolean/Number
+lazyLoad:true,
+margin: 0,
+responsiveClass: false,
+responsive: {
+0: {
+  items: 1,
+},
+600: {
+  items: 2,
+},
+1000: {
+  items: 4,
+},
+1600: {
+  items: 4,
+}
+}
+});
+$('.instagram_feed').owlCarousel({
+dots: false,
+loop: true,
+nav: true,
+merge:true,
+video:true,
+videoWidth: false, 
+videoHeight: false, 
+lazyLoad:true,
+margin: 0,
+responsiveClass: false,
+responsive: {
+0: {
+  items: 1,
+},
+600: {
+  items: 2,
+},
+1000: {
+  items: 4,
+},
+1600: {
+  items: 4,
+}
+}
+});
+$('.product_featured').owlCarousel({
+dots: false,
+loop: true,
+nav: true,
+merge:true,
+video:true,
+videoWidth: false,
+videoHeight: false,
+lazyLoad:true,
+margin: 0,
+responsiveClass: false,
+responsive: {
+0: {
+  items: 2,
+},
+600: {
+  items: 3,
+},
+1000: {
+  items: 4,
+},
+1600: {
+  items: 5,
+}
+}
+});
+$('.featured_recipes_detail').owlCarousel({
+loop: true,
+nav: true,
+merge:true,
+video:true,
+videoWidth: false,
+videoHeight: false,
+lazyLoad:true,
+margin: 0,
+responsiveClass: false,
+responsive: {
+0: {
+  items: 1,
+},
+600: {
+  items: 1,
+},
+1000: {
+  items: 3,
+},
+1600: {
+  items: 3,
+}
+}
+});
+$('.special_recipes').owlCarousel({
+loop: true,
+nav: true,
+merge:true,
+video:true,
+videoWidth: false, 
+videoHeight: false,
+lazyLoad:true,
+margin: 0,
+responsiveClass: false,
+responsive: {
+0: {
+  items: 1,
+},
+600: {
+  items: 1,
+},
+1000: {
+  items: 2,
+},
+1600: {
+  items: 2,
+}
+}
+});
+  $('.home_main_slider').owlCarousel({
+dots: false,
+loop: true,
+nav: true,
+merge:true,
+video:true,
+videoWidth: false,
+videoHeight: false,
+lazyLoad:true,
+margin: 0,
+responsiveClass: false,
+items: 1,
+autoplay: 3000,
+});
+$('.partners').owlCarousel({
+autoplay:false,
+dots: false,
+loop: true,
+nav: false,
+merge:true,
+video:true,
+videoWidth: false, 
+videoHeight: false, 
+lazyLoad:true,
+margin: 0,
+responsiveClass: false,
+responsive: {
+0: {
+  items: 3,
+},
+600: {
+  items: 5,
+},
+1000: {
+  items: 7,
+},
+1600: {
+  items: 7,
+}
+}
+});
+
+});
+ 
+/************ MOBILE MENU JS *****************************/
+
+ $(document).ready(function(){												
+	
+  $('#nav-expander').on('click',function(e){
+		e.preventDefault();
+		$('body').toggleClass('nav-expanded');
+ $('#overlay').show();
+ $('a.nav-expander').hide();
+	});
+	$('#nav-close').on('click',function(e){
+		e.preventDefault();
+		$('body').removeClass('nav-expanded');
+ $('#overlay').hide();
+ $('a.nav-expander').fadeIn("slow");;
+	});
+	
+	
+$(".main-menu").navgoco({
+		 caret: '<span class="fa fa-angle-down"></span>',
+		 accordion: true,
+		 openClass: 'open',
+		 save: true,
+		 cookie: {
+			 name: 'navgoco',
+			 expires: false,
+			 path: '/'
+		 },
+		 slide: {
+			 duration: 300,
+			 easing: 'swing'
+		 }
+	 });
+ 
+		
+ });
+   
+/************ MAIN MENU FIXED *****************************/
+
+//  $(window).scroll(function () {
+// 	 if ($(window).scrollTop() > 63) {
+// 	 $('.nav-desktop').addClass('navbar-fixed');
+// 	 $('.search-bar').hide();
+// 	 }
+// 	 if ($(window).scrollTop() < 64) {
+// 	 $('.nav-desktop').removeClass('navbar-fixed');
+// 	 $('.search-bar').show();
+// 	 }
+//  });
+ 
+/************ MAIN MENU HOVER *****************************/
+
+// $(function(){
+// $(".dropdown").hover(            
+// 	function() {
+// 		$('.dropdown-menu', this).stop( true, true ).fadeIn("fast");
+// 		$(this).toggleClass('open');               
+// 	},
+// 	function() {
+// 		$('.dropdown-menu', this).stop( true, true ).fadeOut("fast");
+// 		$(this).toggleClass('open');              
+// 	});
+// });
+
+</script> 
+</body>
+</html>  
